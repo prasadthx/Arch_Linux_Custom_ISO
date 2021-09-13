@@ -98,10 +98,39 @@ createGroupFile () {
     "${USERNAME}":x:1010:" > ./ArchReleng/airootfs/etc/group
 }
 
-setLayout () {
+setKeyLayout () {
     echo "KEYMAP="${KEYMAP}"" > ./ArchReleng/airootfs/etc/vconsole.conf
 }
 
 runMkArchIso () {
     mkarchiso -v -w ./work -o ./out ./ArchReleng
 }
+
+
+#Run The Functions
+
+checkRoot
+
+errorHandle
+
+prerequisites
+
+copyArchReleng
+
+copyXcalibRepo
+
+copyCustomFiles
+
+setHostName
+
+createPasswordFile
+
+createGroupFile
+
+setKeyLayout
+
+runMkArchIso
+
+removeXcalibRepo
+
+
