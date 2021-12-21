@@ -15,3 +15,16 @@
 ### 4. Latte Dock
 ### 5. Customized Sweet KDE theme
 
+
+### Screenshots :-
+![Calamares Installation](screenshot_installer.png) 
+
+![Display Manager Screen](screenshot1.png)
+
+![Splash Screen](screenshot5.png)
+
+![Main Screen](screenshot2.png)
+
+![Konsole](screenshot3.png)
+
+![Menu](screenshot4.png)
