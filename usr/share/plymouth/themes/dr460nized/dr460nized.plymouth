@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Dr460nized
+Description=Dr460nized logo with spinning colored stripes
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dr460nized
+ScriptFile=/usr/share/plymouth/themes/dr460nized/dr460nized.script
+UseFirmwareBackground=false

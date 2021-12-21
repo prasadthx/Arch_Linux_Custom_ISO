@@ -1,0 +1,8 @@
+[UiSettings]
+ColorSchemePath=Xcaliber.colors
+
+[misc]
+openlastproject=true
+
+[unmanaged]
+widgetstyle=kvantum-dark
