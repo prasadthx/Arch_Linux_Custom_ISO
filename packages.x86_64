@@ -170,6 +170,7 @@ konsole
 print-manager
 okular
 sweeper
+plasma-wayland-session
 
 # Display Manager
 sddm
@@ -192,6 +193,7 @@ kirigami2
 knewstuff
 hicolor-icon-theme
 cmake
+make
 extra-cmake-modules
 python
 glib2
