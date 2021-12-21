@@ -14,7 +14,25 @@
 ### 3. KDE Plasma Desktop Environment
 ### 4. Latte Dock
 ### 5. Customized Sweet KDE theme
+### 6. Starship Prompt
+### 7. Aur Support with Yay and Pamac
 
+### Steps for installation:-
+1. Download and flash the ISO.
+2. Boot into the live environment (ISO).
+3. Default Username => arch Password => arch
+4. Root Username => root Password => root.
+5. Login using any of the above two users.
+6. Run Calamares Installer.
+7. Follow the steps and set new username and password.
+8. After the setup restart the system and Arch Linux is installed.
+
+### Default Login Credentials:-
+1. User :- arch
+   Password:- arch
+
+2. User :- root
+   Password :- root
 
 ### Screenshots :-
 ![Calamares Installation](screenshot_installer.png) 
